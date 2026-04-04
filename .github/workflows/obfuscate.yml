@@ -28,7 +28,7 @@ jobs:
             const fs = require('fs');
             const path = require('path');
             
-            const sourceFileName = 'Vless_workers_pages/nat64套壳版明文.js';
+            const sourceFileName = '_worker.js';
             const outputFileName = '少年你相信光吗';
             const outputFileName2 = 'pages/_worker.js';
             const sourceFilePath = path.join(process.cwd(), sourceFileName);
